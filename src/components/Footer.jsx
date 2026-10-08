@@ -2,15 +2,15 @@
 function Footer() {
   const integrantes = [
     {
-      nombre: "Integrante 1",
+      nombre: "Sofía Martínez",
       rol: "Diseño y desarrollo",
     },
     {
-      nombre: "Integrante 2",
+      nombre: "Valentina López",
       rol: "Catálogo de productos",
     },
     {
-      nombre: "Integrante 3",
+      nombre: "Camila Fernández",
       rol: "Experiencia de usuario",
     },
   ];
